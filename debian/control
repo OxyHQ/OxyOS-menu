@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: OxyHQ <admin@oxy.so>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.8
-Homepage: https://github.com/OxyHQ/OxyOS-menu
+Homepage: https://os.oxy.so
 
 Package: obmenu
 Architecture: all
