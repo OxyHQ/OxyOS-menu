@@ -1,7 +1,7 @@
 Source: obmenu
 Section: misc
 Priority: extra
-Maintainer: OxyHQ <contact@oxyhq.com>
+Maintainer: OxyHQ <admin@oxy.so>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.8
 Homepage: https://github.com/OxyHQ/OxyOS-menu

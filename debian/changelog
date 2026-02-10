@@ -2,17 +2,17 @@ obmenu (13.0) unstable; urgency=medium
 
   * Version bump
 
- -- Ben Young <contact@oxyhq.com>  Sun, 08 Jun 2025 16:46:16 -0800
+ -- Ben Young <admin@oxy.so>  Sun, 08 Jun 2025 16:46:16 -0800
 
 obmenu (12.0) unstable; urgency=medium
 
   * Updated from https://github.com/0x10/obmenu2
 
- -- Ben Young <contact@oxyhq.com>  Sun, 14 May 2023 16:46:16 -0800
+ -- Ben Young <admin@oxy.so>  Sun, 14 May 2023 16:46:16 -0800
 
 obmenu (11.0) unstable; urgency=medium
 
   * Initial Release.
   * Yoinked from https://github.com/0x10/obmenu2
 
- -- Ben Young <contact@oxyhq.com>  Thu, 22 Apr 2021 13:17:16 -0800
+ -- Ben Young <admin@oxy.so>  Thu, 22 Apr 2021 13:17:16 -0800
